@@ -45,15 +45,7 @@ const HomePage = () => {
 					</span>
 				</div>
 			</div>
-			<footer>
-				<h4>
-					Built with{" "}
-					<span role="img" aria-label="heart">
-						❤️
-					</span>{" "}
-					by <a href="/#">Maruf Hasan</a>
-				</h4>
-			</footer>
+			
 		</div>
 	);
 };

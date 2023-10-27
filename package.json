@@ -1,4 +1,4 @@
-{
+ {
   "name": "synccode",
   "version": "1.0.0",
   "description": "",
@@ -11,7 +11,7 @@
     "server:prod": "node backend/server",
     "start": "node backend/server"
   },
-  "author": "",
+  "author": "shashank ushanagalla",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
